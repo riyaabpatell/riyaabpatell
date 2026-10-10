@@ -11,9 +11,9 @@ I like building practical tools that solve real problems for real people.
 - 🌱 Currently learning: web development (Node.js, Express) and mobile app development
 
 ### 🛠 Skills
-**Languages:** Java · C++ · C · Python · JavaScript · HTML
+- **Languages:** Java · C++ · C · Python · JavaScript · HTML
 
-**Tools:** Node.js · Express.js · Google Sheets automation
+- **Tools:** Node.js · Express.js · Google Sheets automation
 
 ### 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/riyaa-b-patell)
